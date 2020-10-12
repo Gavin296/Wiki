@@ -1,4 +1,4 @@
-The Items category contains various items that all have their own unique use.
+The Items category contains various items that all belong to the "Useful Items" category.
 
 ## Table of Contents
 * [Portable Crafter](https://github.com/Slimefun/Slimefun4/wiki/Portable-Crafter)
@@ -16,3 +16,4 @@ The Items category contains various items that all have their own unique use.
 * [Radiant Backpack](https://github.com/Slimefun/Slimefun4/wiki/Backpacks)
 * [Soulbound Backpack](https://github.com/Slimefun/Slimefun4/wiki/Backpacks)
 * [Cooler](https://github.com/Slimefun/Slimefun4/wiki/Cooler)
+* [Tape Measure](https://github.com/Slimefun/Slimefun4/wiki/Tape-Measure)
